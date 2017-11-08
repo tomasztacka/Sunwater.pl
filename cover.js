@@ -1214,16 +1214,7 @@
 				document.getElementById("view3").value = x;
 				document.getElementById("view3").disabled = true;
 				return x;
-			}
-
-
-/*
-coverChoseAlert 
-
-
-coverChose
-*/			
-			
+			}		
 			
 			
 			
